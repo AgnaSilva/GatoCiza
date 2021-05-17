@@ -1,0 +1,41 @@
+body{
+  background: #CFD9BD url('' ) no-repeat;
+  
+ 
+  font-family: 'Poppins', sans-serif;
+
+
+}
+ 
+}
+#principal{
+  width: 1000px;
+  
+}
+#menu{
+  background: #beD9F6;
+  padding: 18px;
+}
+#conteudo{
+  background:  #CFD9E8;
+  padding: 10px;
+
+}
+a{
+  color: #4b566a;
+  text-decoration: none;
+  font-weight: bold;
+  padding: 5px;
+}
+.centralizar{
+  text-align: center;
+}
+.img {
+  border: 10px solid #c3c3ae;
+  width: 1000px;
+ 
+}
+h1{
+  color:#828271;
+  font-size: 1.2rem;
+}
